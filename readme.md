@@ -4,6 +4,24 @@
 Adam Pietrewicz
 This repo is a clone of https://github.com/nelaturuk/education-pathways
 
+Activity 1 Screenshots (of the new repo with the readme file in github account):
+
+![Activity1-screenshot1](https://user-images.githubusercontent.com/60241038/137662682-ffafac70-2808-4eef-9ab8-6099ccf53781.png)
+
+![Activity1-screenshot2](https://user-images.githubusercontent.com/60241038/137662690-338efeab-a263-4ee4-8e79-336090f392bc.png)
+
+
+Activity 2-5 Screenshots (Home page and results page styling):
+
+![Activity2-5-screenshot-homepage](https://user-images.githubusercontent.com/60241038/137662731-a4a3f24a-b450-4a96-8bac-a2caa633faba.png)
+
+![Activity2-5-screenshot-results](https://user-images.githubusercontent.com/60241038/137662743-41738c69-3a37-47ca-b7c7-9560ec5e0629.png)
+
+![Activity2-5-screenshot-results-table](https://user-images.githubusercontent.com/60241038/137662750-68bceb20-39bd-4657-b790-97eab6c8edbe.png)
+
+
+
+
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
