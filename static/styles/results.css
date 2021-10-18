@@ -1,0 +1,29 @@
+#results-page-table-container{
+  margin: 20px auto;
+}
+
+table{
+  border-radius: 20px;
+  padding: 20px;
+  border-collapse: separate;
+}
+
+td{
+  padding: 3px;
+  border-left: 1px solid #00204E;
+  border-bottom: 1px solid #00204E;
+  border-right: 1px solid #00204E;
+}
+
+th{
+  text-align: center;
+  position: sticky;
+  top: 2px;
+  z-index: 10;
+  background-color: #00204E;
+  color: white;
+  border-left: 1px solid #00204E;
+  border-bottom: 1px solid #00204E;  
+  border-right: 1px solid #00204E;
+}
+
