@@ -20,6 +20,8 @@ Activity 2-5 Screenshots (Home page and results page styling):
 ![Activity2-5-screenshot-results-table](https://user-images.githubusercontent.com/60241038/137662750-68bceb20-39bd-4657-b790-97eab6c8edbe.png)
 
 
+Activity 6:
+The difference between the old EP UI and this new one is that the EP web-pages have multiple colours used for the background, text, and borders that have been added. The original UI did not include any CSS styling sheets, and the only colours used were black and white. It was not interesting to look at. But now this new UI has a blue background, beige coloured search boxes, and the results table's column names are coloured dark blue with white text.
 
 
 
